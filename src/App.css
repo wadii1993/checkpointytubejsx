@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+#logoyt {
+  width: 100px;
+  height: auto;
+}
+
+#navcont {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.hash6 {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  text-align: left;
+}
+
+#col1 {
+  width: 942px;
+}
+
+#navbarScrollingDropdown {
+  margin-left: 130px;
+}
